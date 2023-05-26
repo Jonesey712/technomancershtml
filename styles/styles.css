@@ -14,6 +14,16 @@ h1 {
     font-family: 'Comfortaa', cursive;
 }
 
+.title {
+    color: #fff;
+    text-decoration: none;
+}
+
+.title:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #000000;

@@ -23,6 +23,16 @@ h2 {
     font-family: 'Comfortaa', cursive;
 }
 
+.title {
+    color: #fff;
+    text-decoration: none;
+}
+
+.title:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
 .name {
     text-align: center;
 }
